@@ -16,7 +16,7 @@ Whether you're a writer, blogger, or simply looking to refine your text, TextUti
 <details>  
   <summary>LIGHT MODE</summary>    
   <div class="image-container">    
-    <a href="https://google.com">    
+    <a href="https://github.com/user-attachments/assets/2ff5f89d-9743-4fcc-9dd5-29d2df060109">    
       <img src="https://github.com/user-attachments/assets/2ff5f89d-9743-4fcc-9dd5-29d2df060109" alt="LIGHT MODE" width="500" height="300">    
     </a>
   </div>    
@@ -26,7 +26,7 @@ Whether you're a writer, blogger, or simply looking to refine your text, TextUti
 <details>  
   <summary>DARK MODE</summary>    
   <div class="image-container">    
-    <a href="https://google.com">    
+    <a href="https://github.com/user-attachments/assets/1b47a3bd-4461-4b55-80f2-2f55c9b55c07">    
       <img src="https://github.com/user-attachments/assets/1b47a3bd-4461-4b55-80f2-2f55c9b55c07" alt="DARK MODE" width="500" height="300">    
     </a>
   </div>    
